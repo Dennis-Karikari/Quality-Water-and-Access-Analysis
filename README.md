@@ -32,7 +32,7 @@ The project uses the following tables:
 ## How to Run the Project
 
 1. Import the SQL files provided in the `/sql` directory.
-2. Populate the database with sample data, following the instructions in data_loading.sql.
+2. Populate the database with sample data, following the instructions in `data_loading.sql`.
 3. Execute the query files to generate views, track progress, and analyze data.
 
 ## Access the Full Documentation
